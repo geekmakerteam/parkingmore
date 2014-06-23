@@ -1,10 +1,10 @@
 parkingmore
 ===========
 
-segementfault hackthon competition.only 48 hours developing.....
+segementfault hackthon competition.only 24 hours developing.....
 
 
-html5+bootstrap+nodejs+mongodb
+html5+foundation+nodejs+mongodb
 
 
 this project was done to solve the a few parking position problems
